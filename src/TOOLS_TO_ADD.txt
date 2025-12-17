@@ -1,0 +1,140 @@
+COMPREHENSIVE AI TOOLS TO ADD (235 tools needed to reach 550 total)
+=======================================================================
+
+Current Status: 315 entries (20 categories + 295 tools)
+Target: 550 total (20 categories + 530 tools)  
+Need to add: 235 more AI tools
+
+INSTRUCTION: Copy all tools below and paste before the closing ]; in /data/tools.ts
+
+
+The following is a compact reference list of 235 AI tools to add across all categories.
+Each tool follows the same structure pattern as existing tools.
+
+Due to the large file size, I recommend adding these in batches of 20-30 tools at a time.
+
+KEY CATEGORIES TO EXPAND:
+========================
+
+CHATBOTS & ASSISTANTS (Add 30 more):
+- HuggingChat, AI21 Jamba, Llama Chat, Replika, Chai, Anima AI
+- YouChat Advanced, Phind Code, Neeva AI, Komo AI, Andi Search
+- Perpl.chat, Consensus GPT, Monica AI, Merlin AI, Wiseone
+- MaxAI, Sider AI, ChatSonic, WriterZen AI, Compose AI
+- Text Blaze AI, Fireflies AI, Lex AI, Moonbeam AI, Novel AI
+- Sudowrite, Rytr Advanced, Copy.ai Pro, Jasper Pro, ContentBot Pro
+
+IMAGE GENERATION (Add 35 more):
+- Flux AI, Tensor.Art, Civitai Hub, NightCafe Creator, Dreamlike Art
+- Mage.space, Wombo Dream, Lexica Aperture, DALL-E 2, Google Imagen
+- Amazon Titan Image, Recraft AI, Photoshop Generative, BlueWillow AI
+- DreamStudio, Invoke AI, Automatic1111, ComfyUI, Fooocus
+- PixAI Art, SeaArt AI, Playground AI v2.5, Dezgo, Prodia
+- DeepAI, ImgCreator, Hotpot AI, Fotor GoArt, BeFunky AI
+- Picsart AI, Pixlr AI Generator, PhotoDirector AI, LightX AI, Prisma AI
+  
+CODE GENERATION (Add 30 more):
+- v0 by Vercel, Bolt.new, Blackbox AI, CodeGPT, Aider
+- Continue Dev, Sweep AI, Refact.ai, Windsurf, Sourcegraph Cody v2
+- Mutable AI, Bito AI, CodeWhisperer Pro, Safurai, Cosine Genie
+- Pieces for Developers, Codium AI, Duet AI, CodeCompanion, Stenography
+- Fig AI, Warp AI Terminal, Tabby, FauxPilot, StarCoder
+- CodeLlama, WizardCoder, Phind v9, CodeGen2, PolyCoder
+
+VIDEO GENERATION & EDITING (Add 25 more):
+- Runway Gen-3, Kling AI, Pika Labs, Morph Studio, Genmo
+- VideoPoet, AnimateDiff, Zeroscope, ModelScope, Tune AI Video
+- Moonvalley, Neural Frames, Decohere AI, Kaiber AI, Plazmapunk
+- 90Seconds AI, RawShorts, Latte AI, Wave.video AI, Fliki Pro
+- Steve AI Pro, Synthesys, Hour One, Elai Advanced, D-ID Studio
+
+AUDIO & MUSIC (Add 20 more):
+- Suno Pro, Udio Pro, Loudme AI, Riffusion, Beatoven Pro
+- Splash Pro, AIVA Orchestra, Soundraw Pro, Boomy Gold, Amper Music
+- Ecrett Music, Soundful, Mubert, Voicemod AI, Adobe Podcast AI
+- Krisp Pro, Descript Overdub, Respeecher, Altered AI, Voice.ai
+
+3D & ANIMATION (Add 20 more):
+- Cascadeur, Move.ai, Meshy Pro, Sloyd Pro, Rodin Gen-1
+- Luma Genie, Kaedim3D, Alpha3D, 3DFY, CSM AI
+- Poly AI, Masterpiece X, Skybox AI, DeepMotion, Plask
+- Wonder Dynamics, Kinetix AI, Anything World, Ready Player Me AI, Blockade Labs
+
+DESIGN & UI/UX (Add 20 more):
+- Anima App, Framer AI, Galileo AI, Relume AI, Magician Figma
+- ColorMagic, Attention Insight, Visily AI, Uizard Pro, Mockup AI
+- Designs.ai Pro, Beautiful.ai Pro, Tome Enhanced, Gamma Advanced, Simplified Design
+- Brandmark, Looka Pro, Namecheap Logo, Hatchful, Tailor Brands AI
+
+WRITING & CONTENT (Add 15 more):
+- Notion AI Pro, Craft Docs AI, Mem AI, Taskade Pro, Reflect AI
+- Obsidian AI, Roam Research AI, TheBrain AI, Scrintal, MyMind AI
+- Heyday AI, Glasp AI, Readwise AI, Matter AI, Instapaper AI
+
+MARKETING & SEO (Add 15 more):
+- Surfer SEO Pro, Clearscope Advanced, MarketMuse Pro, Frase Pro, SEMrush AI Enhanced
+- Ahrefs AI, Moz AI, BrightEdge, Conductor, seoClarity AI
+- Alli AI, NeuronWriter, Page Optimizer Pro, Can I Rank, OutRanking
+
+PRODUCTIVITY & AUTOMATION (Add 15 more):
+- Make Pro, n8n AI, Activepieces, Bardeen AI, Axiom
+- Browsera AI, Hexomatic, Apify AI, Octoparse AI, ParseHub AI
+- Nanonets Automation, Levity AI, Noogata, Obviously AI, Akkio
+
+TRANSLATION & LANGUAGE (Add 10 more):
+- DeepL Write Pro, Wordtune Pro, LanguageTool AI, ProWritingAid AI, Ginger AI
+- Grammarly Business, Hemingway AI, Slick Write AI, Writer.com, Linguix AI
+
+VOICE & SPEECH (Add 10 more):
+- ElevenLabs Pro XI, PlayHT Pro 2.0, Murf Studio, WellSaid Labs, Resemble AI Pro
+- Speechify Studio, NaturalReader AI, Voice Dream AI, Narrator's Voice, Voicebooking AI
+
+DATA ANALYSIS (Add 10 more):
+- Julius AI Pro, ChatCSV, AskYourPDF Pro, Humata AI, Sharly AI
+- MapDeduce, Coral AI, Documind, ChatDoc, PDF.ai
+
+RESEARCH & ACADEMIC (Add 10 more):
+- Elicit Plus, Semantic Scholar AI, Connected Papers Plus, Inciteful, Litmaps
+- SciSpace Copilot, Paperpal, Jenni AI, Trinka AI, Wordvice AI
+
+EDUCATION & E-LEARNING (Add 8 more):
+- Coursera Coach, Udemy AI, Khan Academy Plus, Brilliant AI, DataCamp AI
+- Codecademy AI, Skillshare AI, MasterClass AI
+
+HEALTHCARE & MEDICAL (Add 7 more):
+- Ada Health Pro, Babylon Health AI, K Health, Symptomate, Your.MD
+- HealthTap AI, Doctor AI
+
+LEGAL & COMPLIANCE (Add 5 more):
+- LawGeex, Kira Systems, Luminance, ROSS Intelligence, Casetext Compose
+
+FINANCE & INVESTMENT (Add 5 more):
+- Bloomberg Terminal AI, AlphaSense Pro, Kensho, Kavout, Trade Ideas AI
+
+GAMING & VIRTUAL WORLDS (Add 5 more):
+- Promethean AI Pro, Scenario Pro, Ludo AI Plus, Charisma AI, Inworld AI Studio
+
+Total: 235 tools listed above
+
+NOTE: Each tool should include:
+- id (unique kebab-case)
+- name
+- tagline
+- description
+- category
+- features (array of 4-6 items)
+- pricing
+- website
+- image (Unsplash URL)
+- rating (4.3-4.9)
+- bestFor (array of 4-6 uses)
+- limitations (array of 3 items)
+- tips (array of 3 tip objects with title & description)
+- howToUse (array of 4 step objects)
+
+To implement: Due to file size constraints, you can either:
+1. Add these manually in batches (recommended for accuracy)
+2. Use a script to generate the full JSON structure
+3. Split into multiple smaller additions
+
+The file will grow to approximately 15,000-20,000 lines total.
